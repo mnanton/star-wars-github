@@ -10,3 +10,8 @@ Segunda Trilogía:
 * Episodio 2: El ataque de los clones (2002)
 * Episodio 3: La venganza de los Sith (2005)
 
+Tercera Trilogía:
+* Episodio 7: El despartar de la fuerza (2015)
+* Episodio 8: Los últimos Jedi (2017)
+* Episodio 9: El ascenso de SkyWalker (2019)
+
